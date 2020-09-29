@@ -1,2 +1,2 @@
 # otro-repo-20-LearningGithub
-Peticiones Fork y Full
+Peticiones Fork y Pull
